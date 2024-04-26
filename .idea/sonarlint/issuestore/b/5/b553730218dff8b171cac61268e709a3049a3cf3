@@ -1,0 +1,26 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ùõİ×øÿÿÿÿ8˜“õÿğ1
+g	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8™“õÿğ1
+‚
+java:S14886"eImmediately return this expression instead of assigning it to the temporary variable "deviceCommand".(ÀîÄ8™“õÿğ1
+‚
+java:S1488:"eImmediately return this expression instead of assigning it to the temporary variable "deviceCommand".(ÕçıË8š“õÿğ1
+o
+java:S2095"MUse try-with-resources or close this "MulticastSocket" in a "finally" clause.(óÚÀşÿÿÿÿ8«“õÿğ1
+i
+java:S2095"MUse try-with-resources or close this "MulticastSocket" in a "finally" clause.(Ì»Áz8¬“õÿğ1
+
+java:S1149?"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥ÈûÁşÿÿÿÿ8¯“õÿğ1
+
+java:S1149D"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥ÈûÁşÿÿÿÿ8¯“õÿğ1
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(×¼­Æ8°“õÿğ1
+T
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8³“õÿğ1
+N
+java:S1874"1Remove this use of "joinGroup"; it is deprecated.(º‘‘¥8³“õÿğ1
+T
+java:S1874"7Remove this use of "setLoopbackMode"; it is deprecated.(ß°æÂ8´“õÿğ1
+V
+java:S4719F"9Replace charset name argument with StandardCharsets.UTF_8(¥¯¯ò8¹“õÿğ1

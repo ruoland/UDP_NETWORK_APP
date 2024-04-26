@@ -1,0 +1,13 @@
+
+J
+java:S1604&"(Make this anonymous inner class a lambda(™νª°ψÿÿÿÿ8Ρίνΐρ1
+V
+java:S1118
+":Add a private constructor to hide the implicit public one.(Βψ¶8Ϋίνΐρ1
+G	java:S106"+Replace this use of System.out by a logger.(νΧΆ8ήίνΐρ1
+W
+java:S2209&"5Change this instance-reference to a static reference.(™νª°ψÿÿÿÿ8ΰίνΐρ1
+M
+java:S1172."+Remove this unused method parameter "menu".(ιΠ«ώÿÿÿÿ8αίνΐρ1
+G	java:S1065"+Replace this use of System.out by a logger.(ª›“8βίνΐρ1
+L	java:S106>"+Replace this use of System.out by a logger.(µΩ¤—ÿÿÿÿÿ8βίνΐρ1

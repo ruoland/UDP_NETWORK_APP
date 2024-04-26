@@ -1,0 +1,9 @@
+
+Y
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(ƒ‡οm
+z
+java:S1149!"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨βΰψÿÿÿÿ
+G	java:S106"+Replace this use of System.out by a logger.(Θ΅τ»8χ–Ηÿπ1
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ύΎ
+G	java:S106"+Replace this use of System.out by a logger.(Λ‡μο8ω–Ηÿπ1

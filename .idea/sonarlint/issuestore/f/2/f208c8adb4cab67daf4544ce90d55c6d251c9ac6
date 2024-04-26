@@ -1,0 +1,15 @@
+
+j
+java:S2095~"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(ììÚğ8¡¡ÊÀñ1
+k
+java:S2095p"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(®‚Ñô8¡¡ÊÀñ1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Š Ã²8„Û¾Àñ1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ğ…ËÕÿÿÿÿÿ8…Û¾Àñ1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ºÊ“Èüÿÿÿÿ8†Û¾Àñ1
+G	java:S106S"+Replace this use of System.out by a logger.(İÅËœ8ª¡ÊÀñ1
+L	java:S106b"+Replace this use of System.out by a logger.(¼…ô­ùÿÿÿÿ8«¡ÊÀñ1
+U
+java:S1135‚"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8²¡ÊÀñ1

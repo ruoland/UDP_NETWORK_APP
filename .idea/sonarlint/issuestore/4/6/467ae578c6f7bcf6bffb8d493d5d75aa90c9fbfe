@@ -1,0 +1,19 @@
+
+Q
+java:S2387"5"isDeviceConnect" is the name of a field in "Device".(ºĞÕs8Û¦½Àñ1
+T
+java:S2387"2"targetDevice" is the name of a field in "Device".(£Óøşÿÿÿÿÿ8Û¦½Àñ1
+L
+java:S2065"0Remove the "transient" modifier from this field.(ºĞÕs8Ü¦½Àñ1
+
+java:S40871"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ü“€8à¦½Àñ1
+V
+java:S4719."9Replace charset name argument with StandardCharsets.UTF_8(Ä¬•¼8á¦½Àñ1
+S
+java:S1128"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ8ŞœÍÀñ1
+^
+java:S1128"<Remove this unused import 'java.net.SocketTimeoutException'.(Ú©İÔşÿÿÿÿ8ŞœÍÀñ1
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8ŞœÍÀñ1
+R
+java:S1068"0Remove this unused "targetDevice" private field.(£Óøşÿÿÿÿÿ8á¦½Àñ1

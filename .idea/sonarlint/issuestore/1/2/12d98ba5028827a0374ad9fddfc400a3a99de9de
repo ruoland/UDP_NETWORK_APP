@@ -1,0 +1,14 @@
+
+o
+java:S2095E"MUse try-with-resources or close this "MulticastSocket" in a "finally" clause.(²Ü¡ƒúÿÿÿÿ8¯ÌÚ¡ñ1
+€
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ñ“Š±üÿÿÿÿ8¨„€€ñ1
+U
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(¿ÃÆU8¶ú¬€ñ1
+L	java:S106%"+Replace this use of System.out by a logger.(Æ¿¯ˆÿÿÿÿÿ8¦úß¡ñ1
+S
+java:S1128"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ8¼ÌÀñ1
+\
+java:S1128":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8¼ÌÀñ1
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8¼ÌÀñ1
