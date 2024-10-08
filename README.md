@@ -7,4 +7,4 @@
 
 현재는 안드로이드만 지원, 같은 와이파이 내에 있는 기기끼리 자동 연결하는 기능이 있고, PC와 안드로이드 메세지 송수신만 간단하게 지원합니다.
 
-PC 프로젝트 https://github.com/ruoland/udpPc
+PC 프로젝트 [https://github.com/ruoland/udpPc](https://github.com/ruoland/UDP_NETWORK_PC)
